@@ -1,0 +1,10 @@
+## `requirements.txt`
+
+All libraries used in the project.
+
+```txt
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
