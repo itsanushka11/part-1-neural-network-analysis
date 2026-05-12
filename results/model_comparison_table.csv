@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Activation,Learning Rate,Batch Size,Epochs,Test Accuracy,Test Loss
+Experiment 1,"16, 8",ReLU,0.001,32,20,0.9825000166893005,0.0818258672952652
+Experiment 2,"32, 16",ReLU,0.001,16,30,0.9800000190734863,0.11262889951467514
+Experiment 3,"64, 32",Tanh,0.0005,64,40,0.9850000143051147,0.065799281001091
